@@ -1,2 +1,3 @@
-# midi-music
-Simple app that utilizes JAVA MIDI API to write melodies
+# About
+Simple app that utilizes Java MIDI API to write MIDI sequences and play them using default Sequencer
+
