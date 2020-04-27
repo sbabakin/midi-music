@@ -1,0 +1,17 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+
+[*.properties]
+charset = latin1
+
+[*.java]
+continuation_indent_size = 4
+
+[*.md]
+# Markdown syntax allows two trailing spaces as shortcut for <br>
+trim_trailing_whitespace = false
